@@ -1,0 +1,38 @@
+@media screen and (max-width: 767px){
+	.navbar-inverse .navbar-nav > li > a{
+		text-align: center;
+	}
+	.navbar-inverse .navbar-collapse{
+		margin-top: 10px;
+	}
+	#myCarousel .carousel-caption > div > h2{
+		font-size: 20px;
+	}
+	#myCarousel .carousel-caption > div > h1{
+		font-size: 30px;
+	}
+	.left-we-do{
+		margin-bottom: 30px;
+	}
+	.right-we-choose{
+		margin-top: 30px;
+	}
+	footer{
+		padding: 0px;
+	}
+	footer a{
+		padding: 0px 10px;
+	}
+	.copyright p{
+		font-size: 14px;
+		font-weight: 600;
+	}
+}
+@media screen and (max-width: 992px){
+	.single-parallax{
+		margin-bottom: 40px;
+	}
+	.single-member{
+		margin-bottom: 30px;
+	}
+}
